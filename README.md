@@ -1,1 +1,3 @@
 # Gaussian-Naive-Bayes-Classifer-from-Scratch
+
+## Detailed Explanation & code in jupyter notebook ... 
